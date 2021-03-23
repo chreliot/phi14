@@ -6,18 +6,7 @@
     <description>Recent content in notes on PHI 14</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Mar 2021 14:50:17 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi14/tags/notes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Notes on False Consciousness</title>
-      <link>https://chreliot.github.io/phi14/notes/notes-false-consciousness/</link>
-      <pubDate>Tue, 23 Mar 2021 14:50:17 -0400</pubDate>
-      
-      <guid>https://chreliot.github.io/phi14/notes/notes-false-consciousness/</guid>
-      <description>Suppose a person “behaves as he does because of a system or socially institutionalized set of behaviors that are entrenched in the society, and that the function of the system” is sometimes opaque/not completely visible to the actor.
-The actor in this situation exhibits false consciousness, because of the gap between what he thinks he&amp;rsquo;s doing (and why) and what he&amp;rsquo;s actually doing (and why).
- He thinks: he&amp;rsquo;s being kind / chivalrous.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 22 Mar 2021 15:04:00 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi14/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes on Utilitarianism 3</title>
       <link>https://chreliot.github.io/phi14/notes/notes-utilitarianism/</link>
@@ -29,7 +18,7 @@ The actor in this situation exhibits false consciousness, because of the gap bet
     </item>
     
     <item>
-      <title>Notes: Singer</title>
+      <title>Notes on Singer</title>
       <link>https://chreliot.github.io/phi14/notes/notes-singer/</link>
       <pubDate>Wed, 17 Mar 2021 14:49:41 -0400</pubDate>
       
@@ -38,7 +27,18 @@ The actor in this situation exhibits false consciousness, because of the gap bet
     </item>
     
     <item>
-      <title>Notes: Naturalism</title>
+      <title>Notes on False Consciousness</title>
+      <link>https://chreliot.github.io/phi14/notes/notes-false-consciousness/</link>
+      <pubDate>Mon, 01 Mar 2021 14:50:17 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi14/notes/notes-false-consciousness/</guid>
+      <description>Suppose a person “behaves as he does because of a system or socially institutionalized set of behaviors that are entrenched in the society, and that the function of the system” is sometimes opaque/not completely visible to the actor.
+The actor in this situation exhibits false consciousness, because of the gap between what he thinks he&amp;rsquo;s doing (and why) and what he&amp;rsquo;s actually doing (and why).
+ He thinks: he&amp;rsquo;s being kind / chivalrous.</description>
+    </item>
+    
+    <item>
+      <title>Notes on Naturalism</title>
       <link>https://chreliot.github.io/phi14/notes/notes-naturalism/</link>
       <pubDate>Mon, 22 Feb 2021 14:49:48 -0400</pubDate>
       
@@ -48,7 +48,7 @@ Ethics is a behavior. So, can we explain it by natural selection?</description>
     </item>
     
     <item>
-      <title>Notes: Egoism</title>
+      <title>Notes on Egoism</title>
       <link>https://chreliot.github.io/phi14/notes/notes-egoism/</link>
       <pubDate>Wed, 17 Feb 2021 14:59:08 -0400</pubDate>
       
@@ -61,12 +61,29 @@ We can (cynically) analyze every possible case of potentially/nominally-altruist
     </item>
     
     <item>
+      <title>Notes on Relativism</title>
+      <link>https://chreliot.github.io/phi14/notes/notes-relativism/</link>
+      <pubDate>Mon, 15 Feb 2021 15:00:58 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi14/notes/notes-relativism/</guid>
+      <description>In what way are moral claims true/false? [for example, &amp;ldquo;Murder is wrong.&amp;quot;]
+&amp;ldquo;Chocolate is delicious.&amp;rdquo; Is that true? Why or why not? &amp;ldquo;The Earth is round.&amp;rdquo; Is that true? Why or why not?
+Ways of being true/false (or not)  Realism - Statements are true when they match reality (false when they don&amp;rsquo;t). Non-realism - Statements neither match nor fail to match reality; any opinion is as good as any other.</description>
+    </item>
+    
+    <item>
       <title>Notes on Euthyphro</title>
       <link>https://chreliot.github.io/phi14/notes/notes-euthyphro/</link>
       <pubDate>Wed, 10 Feb 2021 14:49:59 -0400</pubDate>
       
       <guid>https://chreliot.github.io/phi14/notes/notes-euthyphro/</guid>
-      <description>But if in fact what is dear to the gods and the holy were the same, my friend, then, if the holy were loved because it is holy, what is dear to the gods would be loved because it is dear to the gods; but if what is dear to the gods were dear to the gods because the gods love it, the holy would be holy because it is loved.</description>
+      <description>Euthyphro (Plato) Where: outside the courthouse
+hoison = piety, holiness, righteousness, respectfulness toward gods, respectfulness
+Socrates is facing trial for
+ corrupting the youth rejecting the gods of Athens (lacking hoison) inventing false gods  Socrates defends his actions as displaying hoison
+Euthyphro is at court pressing charges against his father
+Socrates reacts with surprise at Euthyphro&amp;rsquo;s impiety towards his father — his lack of hoison
+The Euthyphro dilemma  But if in fact what is dear to the gods and the holy were the same, my friend, then, if the holy were loved because it is holy, what is dear to the gods would be loved because it is dear to the gods; but if what is dear to the gods were dear to the gods because the gods love it, the holy would be holy because it is loved.</description>
     </item>
     
   </channel>
