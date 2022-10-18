@@ -6,7 +6,17 @@
     <description>Recent content in tests on PHI 14</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Sep 2022 10:41:06 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi14/tags/tests/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 13:53:14 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi14/tags/tests/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test 1 Information</title>
+      <link>https://chreliot.github.io/phi14/tests/test-1-info/</link>
+      <pubDate>Mon, 10 Oct 2022 13:53:14 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi14/tests/test-1-info/</guid>
+      <description>Instructions The test will be designed to take about an hour on average, and to take not more than 85 minutes (which is to say, class time).
+Format The test will consist of six short (5–8 sentences), separate paragraphs you&amp;rsquo;ll need to write in response to questions that are reproduced in the list of “Possible test questions” below. That list is a test bank of possible questions, some of which are the actual questions that will be on the test, exactly as they will be written on the test.</description>
+    </item>
+    
     <item>
       <title>Interpreting Grades</title>
       <link>https://chreliot.github.io/phi14/notes/interpreting-grades/</link>
@@ -16,15 +26,6 @@
       <description>This note about grading and interpreting grades just adds some detail to what the course syllabus already says about grading.
 4-point scale Grades in this course are assigned and calculated using Hofstra&amp;rsquo;s 4-point scale (described here in the Hofstra University Bulletin). Following the Bulletin, the alphabetical grades, including plus (+) and minus (–), have the following 4-point scale values (and vice versa):
 letter 4pt Student’s academic performance … A 4.0 “was of honors level.</description>
-    </item>
-    
-    <item>
-      <title>Test 1 Information</title>
-      <link>https://chreliot.github.io/phi14/tests/test-1-info/</link>
-      <pubDate>Tue, 13 Oct 2020 14:14:07 -0400</pubDate>
-      
-      <guid>https://chreliot.github.io/phi14/tests/test-1-info/</guid>
-      <description>This content for this page is currently hidden and will be live shortly.</description>
     </item>
     
   </channel>
